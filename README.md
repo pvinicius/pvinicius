@@ -1,7 +1,6 @@
 ### E aí, beleza? 👋
 
--  🔭 Atualmente em uma consultoria chamada Indra, como analista de sistemas pleno. 
--  🌱 Estou aprendendo React e aproveitando para refatorar projetos pessoais desenvolvidos em .net core com base no conhecimento que adquiri durante os cursos que participei.
+-  🔭 Atualmente em uma consultoria chamada Indra, como analista de sistemas. 
 
 ### Você pode me encontrar
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pvinicius/pvinicius)](https://github.com/pvinicius/pvinicius)
