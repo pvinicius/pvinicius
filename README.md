@@ -1,6 +1,6 @@
 ### E aí, beleza? 👋
 
--  🔭 Atualmente em uma consultoria chamada Indra, como analista de sistemas. 
+-  🔭 Atualmente trabalho na Indra Company, como analista de sistemas. 
 
 ### Você pode me encontrar
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pvinicius/pvinicius)](https://github.com/pvinicius/pvinicius)
