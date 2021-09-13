@@ -1,6 +1,6 @@
 ### E aí, beleza? 👋
 
--  🔭 Atualmente trabalho na Indra Company, como analista de sistemas. 
+🔭 Atualmente trabalho na Indra Company, como analista de sistemas. 
 
 ### Você pode me encontrar
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-vinicius/)](https://www.linkedin.com/in/pedro-vinicius/)
