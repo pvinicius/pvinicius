@@ -1,5 +1,4 @@
-<h1 align="center">Hello everyone, I'm Pedro</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">Hi there, I'm Pedro</h1>
 
 - 🔭 I’m currently working on **ABB Brazil**
 
@@ -7,8 +6,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How did I automate the execution of database scripts on Azure Pipelines?](https://dev.to/pvinicius/how-did-i-automate-the-execution-of-database-scripts-on-azure-pipelines-454e)
-- [First of all let me introduce myself.](https://dev.to/pvinicius/first-of-all-let-me-introduce-myself-193l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
