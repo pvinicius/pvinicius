@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ABB Brazil**
 
-- 📝 I regularly write articles on [[dev.to/pvinicius](dev.to/pvinicius)](https://dev.to/pvinicius)
+- 📝 I regularly write articles on https://dev.to/pvinicius
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
