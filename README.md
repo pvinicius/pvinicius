@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h1 align="center">Hello everyone, I'm Pedro</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on **ABB Brazil**
 
