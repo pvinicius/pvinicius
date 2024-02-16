@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ABB Brazil**
  
-- 🌱 I’m currently learning **Automating Azure Resource Creation with Terraform**
+- 🌱 I’m currently learning **Automating Azure Resource Creation with Terraform; RabbitMQ; Event Sourcing .NET **
 
 - 📝 I regularly write articles on https://dev.to/pvinicius
 
