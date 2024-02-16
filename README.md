@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on https://dev.to/pvinicius
 
-- 💬 Ask me about **.net**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How did I automate the execution of database scripts on Azure Pipelines?](https://dev.to/pvinicius/how-did-i-automate-the-execution-of-database-scripts-on-azure-pipelines-454e)
