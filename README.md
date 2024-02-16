@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **Automating Azure Resource Creation with Terraform; RabbitMQ; Event Sourcing .NET **
 
-- 📝 I regularly write articles on https://dev.to/pvinicius
+- 📝 I monthly write articles on https://dev.to/pvinicius
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
