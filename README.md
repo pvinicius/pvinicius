@@ -5,15 +5,6 @@
  
 - 🌱 I’m currently learning **Automating Azure Resource Creation with Terraform; Docker; Azure Services **
 
-- 📝 I monthly write articles on https://dev.to/pvinicius
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [I had to create a Guest Mode mechanism in React](https://dev.to/pvinicius/i-had-to-create-a-guest-mode-mechanism-in-reactjs-4pcb)
-- [How did I automate the execution of database scripts on Azure Pipelines?](https://dev.to/pvinicius/how-did-i-automate-the-execution-of-database-scripts-on-azure-pipelines-454e)
-- [First of all let me introduce myself.](https://dev.to/pvinicius/first-of-all-let-me-introduce-myself-193l)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pvinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pvinicius" height="30" width="40" /></a>
